@@ -5,6 +5,7 @@ What This Repo Contains
 * CODEBOOK.md ---> Code book for summary.csv explaining variables, including units of measurement
 * run_analysis.R ---> R script used to process raw data and create summary.csv
 * summary.csv ---> Tidy dataset listing the mean and standard deviation for each measurement for each subject and activity
+* variables.txt ---> list of variables included in summary.csv (minus activity and subject variables)
 
 Raw Data
 ----------------------------
