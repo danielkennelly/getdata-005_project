@@ -15,7 +15,7 @@ The raw data that run_analysis.R processes can be found at [this link](https://d
 How to Run the Script
 ---------------------
 
-Download the raw data zipfile and expand the contents into a directory called "Dataset" in your current working directory. Run the script run_analysis.R in your current working directory. The script generates a tidy csv file / your working directory (summary.csv) listing the mean and standard deviations of each measurement, grouped by subject and activity.
+Download the raw data zipfile and expand the contents into a directory called "Dataset" in your current working directory. Run the script run_analysis.R in your current working directory. The script generates a tidy csv (summary.csv) file in your working directory listing the mean and standard deviations of each measurement, grouped by subject and activity.
 
 Notes on the Raw Data
 ---------------------
