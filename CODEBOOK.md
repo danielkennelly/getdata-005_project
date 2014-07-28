@@ -6,7 +6,7 @@ Summary.csv is a 180 row by 87 column data frame, with one observation per row a
 Variables (columns)
 -------------------
 ### activity
-The activity being performed during the observation. There are six activities, as described in the "Dataset/activity_labels.txt" file:
+This is the activity being performed during the observation. There are six activities, as described in the "Dataset/activity_labels.txt" file:
 
 * walking
 * walking_upstairs
@@ -16,7 +16,7 @@ The activity being performed during the observation. There are six activities, a
 * laying
 
 ### subject
-The numeric id of the subject of the observation. There are 30 subjects, numbered 1-30.
+This is the numeric id of the subject of the observation. There are 30 subjects, numbered 1-30.
 
 ### measurements
 There are 85 additional variables. See the file "variables.txt" for a complete list of these variable names.
